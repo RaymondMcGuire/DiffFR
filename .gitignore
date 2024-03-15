@@ -26,3 +26,5 @@ formula_doc
 Utilities/Version.h
 **/Cache
 extern/partio-old
+/**/SPH_log.txt
+/**/runs
