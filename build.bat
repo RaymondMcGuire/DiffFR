@@ -1,4 +1,5 @@
 call conda activate diffFR-win
+set PYTHONUTF8=1
 pip install -r requirements.txt
 
 python setup.py bdist_wheel
